@@ -1,0 +1,16 @@
+{
+  "name": "react-qs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/neetbox/react-qs.git",
+  "author": "Ryō Igarashi <n33t5hin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.13.2",
+    "@types/puppeteer": "^2.0.1",
+    "devtools-protocol": "^0.0.762508",
+    "puppeteer": "^3.0.1",
+    "rxjs": "^6.5.5",
+    "typescript": "^3.8.3"
+  }
+}
